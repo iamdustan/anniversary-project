@@ -1,0 +1,31 @@
+{
+  "name": "the-project",
+  "version": "0.0.0",
+  "description": "The project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dustan Kasten <dustan.kasten@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "ecstatic": "^0.5.1",
+    "es6ify": "~1.1.0",
+    "event-stream": "~3.1.5",
+    "gulp": "~3.6.2",
+    "gulp-autoprefixer": "0.0.7",
+    "gulp-browserify": "~0.5.0",
+    "gulp-concat": "~2.2.0",
+    "gulp-css-whitespace": "~0.1.0",
+    "gulp-jade": "~0.5.0",
+    "gulp-open": "~0.2.8",
+    "gulp-rework": "~0.2.2",
+    "gulp-shell": "^0.2.4",
+    "gulp-traceur": "~0.5.0",
+    "normalize.css": "~3.0.1",
+    "reactify": "~0.13.1"
+  },
+  "dependencies": {
+    "typewriter": "~0.2.0"
+  }
+}
