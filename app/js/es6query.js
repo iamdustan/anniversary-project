@@ -48,3 +48,10 @@ var isChild = (node, parentSelector, stopAtNode=document.body) => {
   return node;
 }
 
+export var prependTo = (ctx, el) => {
+  if (typeof ctx === 'string') ctx = $(ctx);
+  if (Array.isArray(ctx)) ctx.forEach((c) => c.insertBefore(el, c.firstChild));
+  else ctx.insertBefore(el, ctx.firstChild);
+  return ctx;
+}
+

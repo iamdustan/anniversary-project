@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" width="96px" height="140px" viewBox="0 0 96 140" version="1.1">
+<svg id="dustan" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" width="96px" height="140px" viewBox="0 0 96 140" version="1.1">
   <title>Dustan Kasten</title>
   <description>Created by the amazing Mel Shields.</description>
-  <g id="dustan" transform="translate(2, 2)" sketch:type="MSShapeGroup" fill="#FFFBE0">
+  <g transform="translate(2, 2)" sketch:type="MSShapeGroup" fill="#FFFBE0">
     <path d="M75.6621093,10.3828124 C89.4628897,18.3906254 95.868224,35.0543129 89.9843759,53.3398435 C84.1005278,71.625374 84.2289957,78.9740061 84.2289957,78.9740061 L75.6621093,36.628906 C75.6621093,36.628906 76.2922333,29.6156087 70.4375001,23.5644533 C64.5827668,17.513298 49.9123527,-4.55831623 75.6621093,10.3828124 Z" id="Path-237" stroke="#222222" stroke-width="2" fill="#F7C57C"/>
     <path d="M16.8689359,87.3667411 C16.8689364,87.3667412 20.1339588,101.701082 20.1339588,101.701082 C27.4864057,122.423677 36.176884,128.953128 54.2832045,128.953128 C74.0453869,128.953128 68.2566614,120.377129 75.4843303,109.97613 C82.7119992,99.5751303 86.4761344,85.8769678 86.4761344,85.8769678 C86.4761344,73.8793777 86.476134,54.3969126 86.476134,43.2785278 C86.476134,17.6178453 62.2002047,4.99438028 46.5244992,4.99438028 C30.8487937,4.99438028 5.73250322,16.0997134 5.73250322,41.7603959 C5.73250322,48.6704089 -2.50284228,80.8017187 16.8689359,87.3667411 Z" id="Oval-25" stroke="#222222" fill="#FFFBE0"/>
     <path d="M21.3063151,81.9786018 L21.3063151,105" id="Path-236" stroke="#F7C57C" stroke-width="2"/>

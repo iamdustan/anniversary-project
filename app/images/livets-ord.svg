@@ -1,0 +1,99 @@
+<svg id="livets-ord" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" width="422px" height="160px" viewBox="0 0 422 160" version="1.1">
+  <title>Livets Ord</title>
+  <description>Created by the amazing Mel Shields.</description>
+  <g>
+    <path d="M221.910156,38.9941406 C153.215495,38.9941406 17,28 17,28 L17,83 L418,83 L418,28 C418,28 286.882161,38.9941406 221.910156,38.9941406 Z" id="Rectangle-364" stroke="#222222" stroke-width="3" fill="#EAEAEA" sketch:type="MSShapeGroup"/>
+    <path d="M221.910156,51.9941406 C153.215495,51.9941406 17,41 17,41 L17,83 L418,83 L418,41 C418,41 286.882161,51.9941406 221.910156,51.9941406 Z" id="Rectangle-367" stroke="#222222" stroke-width="3" fill="#FFFFFF" sketch:type="MSShapeGroup"/>
+    <rect id="Rectangle-361" stroke="#222222" stroke-width="3" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="83" width="418" height="55"/>
+    <rect id="Rectangle-412" stroke="#222222" fill="#EEEEEE" sketch:type="MSShapeGroup" x="351" y="99" width="62" height="39"/>
+    <path d="M224.977539,52.46875 C208.553385,52.46875 175.259766,51.3951416 175.259766,51.3951416 L170.455078,74 L279.5,74 L274.480469,51.0126953 C274.480469,51.0126953 241.538411,52.46875 224.977539,52.46875 Z" id="Rectangle-368" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup"/>
+    <rect id="Rectangle-362" stroke="#222222" stroke-width="3" fill="#EAEAEA" sketch:type="MSShapeGroup" x="133" y="74" width="184" height="64"/>
+    <g id="Rectangle-365" transform="translate(212.000000, 0.000000)" fill="#222222" sketch:type="MSShapeGroup">
+        <rect x="11.5" y="0" width="3" height="37.4846802"/>
+        <rect id="Rectangle-366" transform="translate(12.854296, 12.000000) rotate(90.000000) translate(-12.854296, -12.000000) " x="11.3542959" y="-1.14570409" width="3" height="26.2914082"/>
+    </g>
+    <rect id="Rectangle-363" stroke="#222222" stroke-width="3" fill="#E1E1E1" sketch:type="MSShapeGroup" x="146" y="96" width="158" height="42"/>
+    <rect id="Rectangle-369" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="150" y="105" width="10" height="18"/>
+    <rect id="Rectangle-370" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="164" y="105" width="10" height="18"/>
+    <rect id="Rectangle-372" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="178" y="105" width="10" height="18"/>
+    <rect id="Rectangle-371" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="192" y="105" width="10" height="18"/>
+    <rect id="Rectangle-376" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="206" y="105" width="10" height="18"/>
+    <rect id="Rectangle-411" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="356" y="105" width="10" height="18"/>
+    <rect id="Rectangle-410" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="370" y="105" width="10" height="18"/>
+    <rect id="Rectangle-409" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="384" y="105" width="10" height="18"/>
+    <rect id="Rectangle-408" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="398" y="105" width="10" height="18"/>
+    <rect id="Rectangle-416" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="356" y="127" width="10" height="11.53125"/>
+    <rect id="Rectangle-415" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="370" y="127" width="10" height="11.53125"/>
+    <rect id="Rectangle-442" stroke="#222222" fill="#EEEEEE" sketch:type="MSShapeGroup" x="318" y="99" width="33" height="39.1269531"/>
+    <rect id="Rectangle-420" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="323" y="105" width="10" height="18"/>
+    <rect id="Rectangle-419" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="337" y="105" width="10" height="18"/>
+    <rect id="Rectangle-418" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="323" y="127" width="10" height="11.53125"/>
+    <rect id="Rectangle-417" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="337" y="127" width="10" height="11.53125"/>
+    <rect id="Rectangle-414" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="384" y="127" width="10" height="11.53125"/>
+    <rect id="Rectangle-413" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="398" y="127" width="10" height="11.53125"/>
+    <rect id="Rectangle-433" stroke="#222222" fill="#EEEEEE" sketch:type="MSShapeGroup" x="9" y="99" width="89" height="39"/>
+    <rect id="Rectangle-449" stroke="#222222" fill="#EAEAEA" sketch:type="MSShapeGroup" x="1" y="83" width="131" height="10"/>
+    <rect id="Rectangle-450" stroke="#222222" fill="#EAEAEA" sketch:type="MSShapeGroup" x="318" y="83" width="100" height="10"/>
+    <path d="M65,45.6303711 L65,81.9423828 L72,81.9423828 L72,46.0861816 L65,45.6303711 Z" id="Rectangle-434" stroke="#222222" fill="#EAEAEA" sketch:type="MSShapeGroup"/>
+    <path d="M115,48.9863281 L115,81.9423828 L122,81.9423828 L122,49.3117676 L115,48.9863281 Z" id="Rectangle-435" stroke="#222222" fill="#EAEAEA" sketch:type="MSShapeGroup"/>
+    <path d="M327,48.6191406 L327,82.0419922 L334,82.0419922 L334,48.0981445 L327,48.6191406 Z" id="Rectangle-437" stroke="#222222" fill="#EAEAEA" sketch:type="MSShapeGroup"/>
+    <rect id="Rectangle-438" stroke="#222222" fill="#EEEEEE" sketch:type="MSShapeGroup" x="134" y="82.9804688" width="182" height="6.01953125"/>
+    <rect id="Rectangle-439" stroke="#222222" fill="#EEEEEE" sketch:type="MSShapeGroup" x="308" y="88.9804688" width="5" height="49.1791"/>
+    <rect id="Rectangle-443" stroke="#222222" fill="#EEEEEE" sketch:type="MSShapeGroup" x="98" y="99" width="34" height="39.1269531"/>
+    <rect id="Rectangle-440" stroke="#222222" fill="#EEEEEE" sketch:type="MSShapeGroup" x="223" y="89" width="5" height="6.01953125"/>
+    <rect id="Rectangle-441" stroke="#222222" fill="#EEEEEE" sketch:type="MSShapeGroup" x="137" y="89" width="5" height="49.1595052"/>
+    <path d="M377,45.2402344 L377,82.0419922 L384,82.0419922 L384,44.6733398 L377,45.2402344 Z" id="Rectangle-436" stroke="#222222" fill="#EAEAEA" sketch:type="MSShapeGroup"/>
+    <rect id="Rectangle-432" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="41" y="105" width="10" height="18"/>
+    <rect id="Rectangle-431" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="55" y="105" width="10" height="18"/>
+    <rect id="Rectangle-430" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="69" y="105" width="10" height="18"/>
+    <rect id="Rectangle-429" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="83" y="105" width="10" height="18"/>
+    <rect id="Rectangle-428" stroke="#222222" fill="#F7C57C" sketch:type="MSShapeGroup" x="41" y="127" width="10" height="11.53125"/>
+    <rect id="Rectangle-445" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="27" y="105" width="10" height="18"/>
+    <rect id="Rectangle-444" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="27" y="127" width="10" height="11.53125"/>
+    <rect id="Rectangle-447" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="13" y="105" width="10" height="18"/>
+    <rect id="Rectangle-446" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="13" y="127" width="10" height="11.53125"/>
+    <rect id="Rectangle-427" stroke="#222222" fill="#F7C57C" sketch:type="MSShapeGroup" x="55" y="127" width="10" height="11.53125"/>
+    <rect id="Rectangle-426" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="104" y="105" width="10" height="18"/>
+    <rect id="Rectangle-425" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="118" y="105" width="10" height="18"/>
+    <rect id="Rectangle-424" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="104" y="127" width="10" height="11.53125"/>
+    <rect id="Rectangle-423" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="118" y="127" width="10" height="11.53125"/>
+    <rect id="Rectangle-422" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="69" y="127" width="10" height="11.53125"/>
+    <rect id="Rectangle-421" stroke="#222222" fill="#C9C9C9" sketch:type="MSShapeGroup" x="83" y="127" width="10" height="11.53125"/>
+    <rect id="Rectangle-375" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="220" y="105" width="10" height="18"/>
+    <rect id="Rectangle-402" stroke="#222222" stroke-width="3" fill="#E2E2E2" sketch:type="MSShapeGroup" x="0" y="137.980469" width="418" height="19.0195312"/>
+    <rect id="Rectangle-448" stroke="#222222" fill="#9F9F9F" sketch:type="MSShapeGroup" x="1" y="151" width="417" height="6.01953125"/>
+    <rect id="Rectangle-374" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="234" y="105" width="10" height="18"/>
+    <rect id="Rectangle-373" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="248" y="105" width="10" height="18"/>
+    <rect id="Rectangle-379" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="262" y="105" width="10" height="18"/>
+    <rect id="Rectangle-378" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="276" y="105" width="10" height="18"/>
+    <rect id="Rectangle-377" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="290" y="105" width="10" height="18"/>
+    <rect id="Rectangle-390" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="150" y="126.117188" width="10" height="11.8828125"/>
+    <rect id="Rectangle-389" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="164" y="126.117188" width="10" height="10.3935547"/>
+    <rect id="Rectangle-388" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="178" y="126.117188" width="10" height="10.3935547"/>
+    <rect id="Rectangle-387" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="192" y="126.117188" width="10" height="10.3935547"/>
+    <rect id="Rectangle-386" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="206" y="126.117188" width="10" height="10.3935547"/>
+    <rect id="Rectangle-385" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="220" y="126.117188" width="10" height="10.3935547"/>
+    <rect id="Rectangle-384" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="234" y="126.117188" width="10" height="11.8828125"/>
+    <rect id="Rectangle-383" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="248" y="126.117188" width="10" height="11.8828125"/>
+    <rect id="Rectangle-382" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="262" y="126.117188" width="10" height="10.3935547"/>
+    <rect id="Rectangle-381" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="276" y="126.117188" width="10" height="10.3935547"/>
+    <rect id="Rectangle-380" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="290" y="126.117188" width="10" height="10.3935547"/>
+    <rect id="Rectangle-401" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="150" y="97.3867188" width="10" height="4.61328125"/>
+    <rect id="Rectangle-400" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="164" y="97.3867188" width="10" height="4.61328125"/>
+    <rect id="Rectangle-399" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="178" y="97.3867188" width="10" height="4.61328125"/>
+    <rect id="Rectangle-398" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="192" y="97.3867188" width="10" height="4.61328125"/>
+    <rect id="Rectangle-397" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="206" y="97.3867188" width="10" height="4.61328125"/>
+    <rect id="Rectangle-396" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="220" y="97.3867188" width="10" height="4.61328125"/>
+    <rect id="Rectangle-395" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="234" y="97.3867188" width="10" height="4.61328125"/>
+    <rect id="Rectangle-394" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="248" y="97.3867188" width="10" height="4.61328125"/>
+    <rect id="Rectangle-393" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="262" y="97.3867188" width="10" height="4.61328125"/>
+    <rect id="Rectangle-392" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="276" y="97.3867188" width="10" height="4.61328125"/>
+    <rect id="Rectangle-391" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup" x="290" y="97.3867188" width="10" height="4.61328125"/>
+    <rect id="Rectangle-635" fill="#222222" sketch:type="MSShapeGroup" x="47" y="137" width="4" height="20"/>
+    <rect id="Rectangle-638" fill="#222222" sketch:type="MSShapeGroup" x="147" y="138" width="4" height="20"/>
+    <rect id="Rectangle-639" fill="#222222" sketch:type="MSShapeGroup" x="251" y="137" width="4" height="20"/>
+    <path d="M60.3907767,124.522565 C59.4359646,117.45138 53.3763404,112 46.0434783,112 C38.0473556,112 31.5652174,118.482138 31.5652174,126.478261 C31.5652174,127.12329 31.6073984,127.758466 31.6891526,128.381183 L31.6891528,128.381185 C27.9468047,129.88393 25.3043478,133.546419 25.3043478,137.826087 C25.3043478,143.444984 29.8593638,148 35.4782609,148 C40.014499,148 43.8573391,145.03121 45.1698159,140.930596 C45.4588356,140.947798 45.7501382,140.956522 46.0434783,140.956522 C48.0582014,140.956522 49.976809,140.545003 51.7198313,139.801434 C53.4816125,142.832039 56.7637309,144.869565 60.5217391,144.869565 C66.1406362,144.869565 70.6956522,140.314549 70.6956522,134.695652 C70.6956522,129.076755 66.1406362,124.521739 60.5217391,124.521739 C60.47802,124.521739 60.4343653,124.522015 60.3907767,124.522565 L60.3907767,124.522565 Z" id="Oval-27" stroke="#222222" stroke-width="3" fill="#79BE7D" sketch:type="MSShapeGroup"/>
+    <path d="M155.605708,118.657433 C153.24146,116.983629 150.354021,116 147.236842,116 C140.814825,116 135.367918,120.174945 133.462188,125.958768 L133.462188,125.958768 C129.201618,126.36205 125.868421,129.949665 125.868421,134.315789 C125.868421,138.952075 129.626873,142.710526 134.263158,142.710526 C135.653056,142.710526 136.964062,142.372746 138.118563,141.774795 C140.609456,143.791764 143.78205,145 147.236842,145 C152.760724,145 157.563166,141.911152 160.011168,137.366458 C160.077464,137.367765 160.143918,137.368421 160.210526,137.368421 C165.689772,137.368421 170.131579,132.926614 170.131579,127.447368 C170.131579,121.968122 165.689772,117.526316 160.210526,117.526316 C158.548453,117.526316 156.98184,117.935029 155.605708,118.657433 L155.605708,118.657433 Z" id="Oval-30" stroke="#222222" stroke-width="3" fill="#79BE7D" sketch:type="MSShapeGroup"/>
+    <path d="M248.018142,119.740532 C250.892045,115.548751 256.555369,114.212014 261.03096,116.795998 C265.344522,119.286434 267.055685,124.553336 265.210377,129.036054 L265.210377,129.036054 C269.04982,131.995547 270.20136,137.4124 267.710924,141.725962 C264.997294,146.426106 258.987242,148.036495 254.287097,145.322865 C253.95324,145.130112 253.634972,144.920728 253.332735,144.696362 C248.9732,147.944819 242.925199,148.489202 237.917894,145.598233 C231.203402,141.721619 228.902847,133.13583 232.779461,126.421338 C235.927892,120.968094 242.182515,118.426302 248.018142,119.740532 L248.018142,119.740532 Z" id="Oval-33" stroke="#222222" stroke-width="3" fill="#79BE7D" sketch:type="MSShapeGroup"/>
+  </g>
+</svg>

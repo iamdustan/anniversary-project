@@ -1,7 +1,28 @@
-import { $, $$, on, off, delegateTo } from './es6query';
+import { $, $$, on, off, delegateTo, prependTo } from './es6query';
 import { getXML } from './ajax';
 
 var FACES = {};
+var loadInto = (name, element) => {
+  getXML(`images/${name}.svg`).then(
+    (resp) => {
+      FACES[name] = resp;
+      prependTo(element, resp);
+    },
+    (err) => console.error(`Failed to load "images/${name}.svg"`, err)
+  );
+}
+
+loadInto('dustan', $$('#storybox'));
+[
+  'water',
+  'clouds',
+  'livets-ord',
+  'uppsala',
+  'tiramisu',
+  'hutchinson',
+  'lincolnton',
+  'courthouse',
+].forEach((n) => loadInto(n, $$('#scene')));
 
 getXML('images/dustan.svg').then(
   (resp) => {
