@@ -1,18 +1,20 @@
 import { $, $$, on, off, delegateTo, prependTo } from './es6query';
 import { getXML } from './ajax';
 
+var typewriter = require('typewriter');
+
 var FACES = {};
-var loadInto = (name, element) => {
-  getXML(`images/${name}.svg`).then(
+var loadInto = (element, name) => {
+  return getXML(`images/${name}.svg`).then(
     (resp) => {
       FACES[name] = resp;
       prependTo(element, resp);
     },
-    (err) => console.error(`Failed to load "images/${name}.svg"`, err)
+    (err) => console.error(`Failed to load "images/${name}.svg"`, err.message, err.stack)
   );
-}
+};
 
-loadInto('dustan', $$('#storybox'));
+loadInto($$('#storybox'), 'dustan');
 [
   'water',
   'clouds',
@@ -22,18 +24,8 @@ loadInto('dustan', $$('#storybox'));
   'hutchinson',
   'lincolnton',
   'courthouse',
-].forEach((n) => loadInto(n, $$('#scene')));
+].forEach(loadInto.bind(null, $$('#scene')));
 
-getXML('images/dustan.svg').then(
-  (resp) => {
-    FACES['dustan'] = resp;
-    var s = $$('#storybox');
-    s.insertBefore(resp, s.firstChild);
-  },
-  (err) => {}
-);
-
-var typewriter = require('typewriter');
 var fadeIn = () => document.body.classList.remove('is-loading');
 
 on(document.body, 'click', delegateTo('button', (e) => {
