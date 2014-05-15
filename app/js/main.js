@@ -1,30 +1,47 @@
 import { $, $$, on, off, delegateTo, prependTo } from './es6query';
-import { getXML } from './ajax';
-
-var typewriter = require('typewriter');
-
-var FACES = {};
-var loadInto = (element, name) => {
-  return getXML(`images/${name}.svg`).then(
-    (resp) => {
-      FACES[name] = resp;
-      prependTo(element, resp);
-    },
-    (err) => console.error(`Failed to load "images/${name}.svg"`, err.message, err.stack)
-  );
-};
+import { scenes } from './scenes';
+import { loadInto } from './_util';
 
 loadInto($$('#storybox'), 'dustan');
+loadInto($$('#scene'), 'water');
+
+var rand = (min, max) => Math.random() * (max - min) + min;
+
+loadInto(null, 'cloud').then((el) => {
+  var container = $$('#scene');
+  var width = container.clientWidth;
+  var clouds = Array.apply(0, Array(3)).map(_=>el.cloneNode(true));
+
+  clouds.forEach(prependTo.bind(null, container));
+  clouds.forEach((c, i) => {
+    var scale = rand(0.9, 1.4);
+    var y = rand(6, 80);
+    var w = c.clientWidth * scale;
+    var tween = new TWEEN.Tween({x: width + w * Math.random()})
+      .to({ x: -w}, 26000)
+      .repeat(Infinity)
+      .onUpdate(function(time) {
+        var _x = this.x - (width / (i + 1));
+        var _y = (Math.sin(time) * 2) + y;
+        c.style.webkitTransform = `scale(${scale}) translate(${_x}px,${_y}px)`;
+      })
+      .start();
+  });
+});
+
+scenes[0].scene.start(scenes[0])
+  .then(()=>scenes[1].scene.start(scenes[1]))
+  .then(()=>scenes[2].scene.start(scenes[2]))
+  .then(()=>{return scenes[3].scene.start(scenes[3])});
+
 [
-  'water',
-  'clouds',
   'livets-ord',
   'uppsala',
   'tiramisu',
   'hutchinson',
   'lincolnton',
   'courthouse',
-].forEach(loadInto.bind(null, $$('#scene')));
+].forEach(loadInto.bind(null, null));
 
 var fadeIn = () => document.body.classList.remove('is-loading');
 
@@ -32,26 +49,8 @@ on(document.body, 'click', delegateTo('button', (e) => {
   console.log('clicked that thing');
 }));
 
-var tw = typewriter($$('#typewriter'))
-  .withAccuracy(99)
-  .withMinimumSpeed(5)
-  .withMaximumSpeed(10)
-  .build();
-
-tw.clear()
-  .waitRange(1000, 2000)
-  .type('Hello Mel,')
-  .put('<br />')
-  .waitRange(1000, 2000)
-  .type('This is awesome. You are amazing.')
-  .put('<br/>')
-  .wait(2000)
-  .type('Thank you. Thank you. ')
-  .waitRange(500, 1000)
-  .type('Thank you.')
-  .put('<br/>')
-  .waitRange(1000, 2000)
-  .type('Sincerely,')
-  .put('<br/>')
-  .type('Dustan', () => console.log('finished'));
+(function animate() {
+  requestAnimationFrame(animate);
+  TWEEN.update();
+})();
 

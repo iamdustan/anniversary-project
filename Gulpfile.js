@@ -11,7 +11,8 @@ var paths = {
   css: 'app/css/main.styl',
   js: 'app/js/main.js',
   jade: 'app/*.jade',
-  img: 'app/images/*'
+  img: 'app/images/*',
+  vendor: 'app/vendor/*',
 };
 
 gulp.task('css', function() {
@@ -65,6 +66,8 @@ gulp.task('jade', function() {
 });
 
 gulp.task('img', function() {
+  gulp.src(paths.vendor)
+    .pipe(dest('vendor/'));
   return gulp.src(paths.img)
     .pipe(dest('images/'));
 });
@@ -78,7 +81,7 @@ gulp.task('open', function() {
 gulp.task('watch', function() {
   gulp.watch(paths.css, ['css']);
   gulp.watch(paths.jade, ['jade']);
-  gulp.watch('app/js/*.js', ['js']);
+  gulp.watch('app/js/**/*.js', ['js']);
   gulp.watch(paths.img, ['img']);
 });
 
