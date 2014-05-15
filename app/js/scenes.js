@@ -17,8 +17,8 @@ export var scenes = [
       'It was the September of 2006 that we met.',
       'I can picture in my mind the moment you walked up to our group.',
       'I was happy to have another American in our small group.',
-      'It wasn&rsquo;t long after our first encounter that I heard God say to me, ',
-      '&ldquo;That woman will be your wife.&rdquo;'
+      'It wasn’t long after our first encounter that I heard God say to me, ',
+      '“That woman will be your wife.”'
     ]
   },
   {
@@ -27,7 +27,7 @@ export var scenes = [
     content: [
       'The days and weeks passed and our friendship strengthened.',
       'Just beyond Christmas, in February of 2007 that we officially began our relationship.',
-      'For our first date we went to Stockholm and enjoyed each other&rsquo;s companies and a meal at Tiramisu.'
+      'For our first date we went to Stockholm and enjoyed each other’s companies and a meal at Tiramisu.'
     ]
   },
   {
@@ -46,7 +46,7 @@ export var scenes = [
       'I still remember those months apart as the most lonely and painful of my life.',
       'I had fallen in love with this woman.',
       'My feelings, hopes, and dreams had all been transformed to revolve around this southern girl.',
-      'We didn&rsquo;t have a plan for how our lives would come together again.',
+      'We didn’t have a plan for how our lives would come together again.',
       'So we began to travel back and forth&mdash;to visit each other as much as we can.',
     ]
   },
@@ -90,7 +90,7 @@ export var scenes = [
     scene: new Scene('Third trip to Lincolnton', {element: 'lincolnton'}),
     content: [
       'And I to Lincolnton.',
-      'It &ldquo;snowed&rdquo;. School was canceled. Groceries were lacking milk and bread.',
+      'It “snowed”. School was canceled. Groceries were lacking milk and bread.',
       'There was no snow on the ground.',
     ]
   },
@@ -134,6 +134,8 @@ export var scenes = [
     content: [
       'And on this day, May 16th, 5 years ago',
       'Kelly Renee Richards and Dustan Lee Kasten were wed.',
+      '',
+      'I love you.',
     ]
   },
 ];
