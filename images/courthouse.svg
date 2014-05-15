@@ -1,0 +1,129 @@
+<svg id="courthouse" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" width="292px" height="139px" viewBox="0 0 292 139" version="1.1">
+  <title>Lincolnton</title>
+  <description>Created by the amazing Mel Shields.</description>
+  <g>
+    <path d="M87,3 L87,23 L96,19.6845703 L96,3 L87,3 Z" id="Rectangle-331" stroke="#222222" stroke-width="3" fill="#F1AA8E" sketch:type="MSShapeGroup"/>
+    <path d="M152,0.435546875 L87,23 L87,134 L217,134 L217,23 L152,0.435546875 Z" id="Rectangle-321" stroke="#222222" stroke-width="3" fill="#FFFBE0" sketch:type="MSShapeGroup"/>
+    <rect id="Rectangle-320" stroke="#222222" stroke-width="3" fill="#FFFBE0" sketch:type="MSShapeGroup" x="0" y="48" width="288" height="87"/>
+    <path d="M152,28.8867188 L96,47 L96,134 L208,134 L208,47 L152,28.8867188 Z" id="Rectangle-322" stroke="#222222" stroke-width="3" fill="#CD6A45" sketch:type="MSShapeGroup"/>
+    <rect id="Rectangle-323" stroke="#222222" stroke-width="3" fill-opacity="0" fill="#FFDED1" sketch:type="MSShapeGroup" x="103" y="67" width="98" height="67"/>
+    <path d="M163,27 C163,20.9248678 158.075132,16 152,16 C145.924868,16 141,20.9248678 141,27 L163,27 Z" id="Oval-5" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup"/>
+    <rect id="Rectangle-328" stroke="#222222" stroke-width="3" fill="#CD6A45" sketch:type="MSShapeGroup" x="217" y="68" width="71" height="67"/>
+    <rect id="Rectangle-329" stroke="#222222" stroke-width="3" fill="#CD6A45" sketch:type="MSShapeGroup" x="16" y="68" width="71" height="67"/>
+    <rect id="Rectangle-332" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="26" y="72" width="9" height="34.9892578"/>
+    <rect id="Rectangle-333" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="40" y="72" width="9" height="34.9892578"/>
+    <rect id="Rectangle-335" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="54" y="72" width="9" height="34.9892578"/>
+    <rect id="Rectangle-334" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="68" y="72" width="9" height="34.9892578"/>
+    <rect id="Rectangle-339" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="26" y="54" width="9" height="5.76953125"/>
+    <rect id="Rectangle-338" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="40" y="54" width="9" height="5.76953125"/>
+    <rect id="Rectangle-337" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="54" y="54" width="9" height="5.76953125"/>
+    <rect id="Rectangle-336" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="68" y="54" width="9" height="5.76953125"/>
+    <rect id="Rectangle-347" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup" x="227" y="72" width="9" height="35.0146484"/>
+    <rect id="Rectangle-348" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="227" y="72" width="9" height="35.0146484"/>
+    <path d="M227.5,75.5 L235.5,75.5" id="Line" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M227.5,79.5 L235.5,79.5" id="Line-75" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M227.5,83.5 L235.5,83.5" id="Line-76" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M227.5,87.5 L235.5,87.5" id="Line-77" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <rect id="Rectangle-349" stroke="#222222" fill="#FFFBE0" sketch:type="MSShapeGroup" x="188" y="98.9853516" width="12" height="16.0146484"/>
+    <path d="M188.5,102.5 L200.5,102.5" id="Line-106" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M190,107 L199,107" id="Line-110" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup" transform="translate(194.500000, 107.000000) rotate(90.000000) translate(-194.500000, -107.000000) "/>
+    <path d="M188.5,105.5 L200.5,105.5" id="Line-107" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M188.5,108.5 L200.5,108.5" id="Line-109" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M188.5,111.5 L200.5,111.5" id="Line-108" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <rect id="Rectangle-350" stroke="#222222" fill="#FFFBE0" sketch:type="MSShapeGroup" x="104" y="98.9853516" width="12" height="16.0146484"/>
+    <rect id="Rectangle-355" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="87" y="23.9853516" width="13" height="3"/>
+    <rect id="Rectangle-356" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="204" y="23.9853516" width="13" height="3"/>
+    <path d="M103.5,102.5 L115.5,102.5" id="Line-115" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M96.5,52.5 L207.5,52.5" id="Line-119" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M100.248047,23.9462891 L151.900391,6.3671875 L204.073242,24.2304688" id="Line-124" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M109.702731,46.9550014 L151.918588,33.2966728 L194.559861,47.1757988" id="Line-126" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M105,107 L114,107" id="Line-114" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup" transform="translate(109.500000, 107.000000) rotate(90.000000) translate(-109.500000, -107.000000) "/>
+    <path d="M103.5,105.5 L115.5,105.5" id="Line-113" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M103.5,108.5 L115.5,108.5" id="Line-112" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M103.5,111.5 L115.5,111.5" id="Line-111" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <rect id="Rectangle-351" stroke="#222222" fill="#FFFBE0" sketch:type="MSShapeGroup" x="125" y="98.9853516" width="10" height="16.0146484"/>
+    <path d="M125.5,102.5 L134.5,102.5" id="Line-120" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M125.5,105.5 L135.5,105.5" id="Line-118" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M125.5,108.5 L134.5,108.5" id="Line-117" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M125.5,111.5 L134.5,111.5" id="Line-116" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <rect id="Rectangle-352" stroke="#222222" fill="#FFFBE0" sketch:type="MSShapeGroup" x="170" y="98.9853516" width="9" height="16.0146484"/>
+    <rect id="Rectangle-353" stroke="#222222" fill="#FFFBE0" sketch:type="MSShapeGroup" x="147" y="115" width="10" height="19"/>
+    <path d="M152,95.7285156 L147,98.9853516 L147,111 L157,111 L157,98.9853516 L152,95.7285156 Z" id="Rectangle-354" stroke="#222222" fill="#FFFBE0" sketch:type="MSShapeGroup"/>
+    <rect id="Rectangle-346" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="241" y="72" width="9" height="35.0146484"/>
+    <rect id="Rectangle-345" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="255" y="72" width="9" height="35.0146484"/>
+    <rect id="Rectangle-344" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="269" y="72" width="9" height="35.0146484"/>
+    <path d="M169.5,102.5 L178.5,102.5" id="Line-125" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M169.5,105.5 L178.5,105.5" id="Line-123" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M169.5,108.5 L178.5,108.5" id="Line-122" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M169.5,111.5 L178.5,111.5" id="Line-121" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M227.5,91.5 L235.5,91.5" id="Line-78" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M227.5,95.5 L235.5,95.5" id="Line-79" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M227.5,99.5 L235.5,99.5" id="Line-80" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M227.5,103.5 L235.5,103.5" id="Line-81" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M241.5,75.5 L249.5,75.5" id="Line-89" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M241.5,79.5 L249.5,79.5" id="Line-88" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M241.5,83.5 L249.5,83.5" id="Line-87" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M241.5,87.5 L249.5,87.5" id="Line-86" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M241.5,91.5 L249.5,91.5" id="Line-85" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M241.5,95.5 L249.5,95.5" id="Line-84" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M241.5,99.5 L249.5,99.5" id="Line-83" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M241.5,103.5 L249.5,103.5" id="Line-82" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M68.5,75.5 L76.5,75.5" id="Line-147" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M68.5,79.5 L76.5,79.5" id="Line-146" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M68.5,83.5 L76.5,83.5" id="Line-145" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M68.5,87.5 L76.5,87.5" id="Line-144" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M68.5,91.5 L76.5,91.5" id="Line-143" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M68.5,95.5 L76.5,95.5" id="Line-142" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M68.5,99.5 L76.5,99.5" id="Line-141" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M68.5,103.5 L76.5,103.5" id="Line-140" stroke="#222222" fill-opacity="0" fill="#FFDED1" sketch:type="MSShapeGroup"/>
+    <path d="M54.5,75.5 L62.5,75.5" id="Line-155" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M54.5,79.5 L62.5,79.5" id="Line-154" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M54.5,83.5 L62.5,83.5" id="Line-153" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M54.5,87.5 L62.5,87.5" id="Line-152" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M54.5,91.5 L62.5,91.5" id="Line-151" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M54.5,95.5 L62.5,95.5" id="Line-150" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M54.5,99.5 L62.5,99.5" id="Line-149" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M54.5,103.5 L62.5,103.5" id="Line-148" stroke="#222222" fill="#B8B8B8" sketch:type="MSShapeGroup"/>
+    <path d="M40.5,75.5 L48.5,75.5" id="Line-163" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M40.5,79.5 L48.5,79.5" id="Line-162" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M40.5,83.5 L48.5,83.5" id="Line-161" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M40.5,87.5 L48.5,87.5" id="Line-160" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M40.5,91.5 L48.5,91.5" id="Line-159" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M40.5,95.5 L48.5,95.5" id="Line-158" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M40.5,99.5 L48.5,99.5" id="Line-157" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M40.5,103.5 L48.5,103.5" id="Line-156" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M26.5,75.5 L34.5,75.5" id="Line-171" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M26.5,79.5 L34.5,79.5" id="Line-170" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M26.5,83.5 L34.5,83.5" id="Line-169" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M26.5,87.5 L34.5,87.5" id="Line-168" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M26.5,91.5 L34.5,91.5" id="Line-167" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M26.5,95.5 L34.5,95.5" id="Line-166" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M26.5,99.5 L34.5,99.5" id="Line-165" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M26.5,103.5 L34.5,103.5" id="Line-164" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M255.5,75.5 L263.5,75.5" id="Line-97" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M255.5,79.5 L263.5,79.5" id="Line-96" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M255.5,83.5 L263.5,83.5" id="Line-95" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M255.5,87.5 L263.5,87.5" id="Line-94" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M255.5,91.5 L263.5,91.5" id="Line-93" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M255.5,95.5 L263.5,95.5" id="Line-92" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M255.5,99.5 L263.5,99.5" id="Line-91" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M255.5,103.5 L263.5,103.5" id="Line-90" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M269.5,75.5 L277.5,75.5" id="Line-105" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M269.5,79.5 L277.5,79.5" id="Line-104" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M269.5,83.5 L277.5,83.5" id="Line-103" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M269.5,87.5 L277.5,87.5" id="Line-102" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M269.5,91.5 L277.5,91.5" id="Line-101" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M269.5,95.5 L277.5,95.5" id="Line-100" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M269.5,99.5 L277.5,99.5" id="Line-99" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <path d="M269.5,103.5 L277.5,103.5" id="Line-98" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"/>
+    <rect id="Rectangle-343" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="227" y="54" width="9" height="5.76953125"/>
+    <rect id="Rectangle-342" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="241" y="54" width="9" height="5.76953125"/>
+    <rect id="Rectangle-341" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="255" y="54" width="9" height="5.76953125"/>
+    <rect id="Rectangle-340" stroke="#222222" fill="#F1AA8E" sketch:type="MSShapeGroup" x="269" y="54" width="9" height="5.76953125"/>
+    <rect id="Rectangle-330" stroke="#222222" stroke-width="3" fill="#F1AA8E" sketch:type="MSShapeGroup" x="0" y="35" width="16" height="100"/>
+    <rect id="Rectangle-324" stroke="#222222" stroke-width="3" fill="#FFFBE0" sketch:type="MSShapeGroup" x="116" y="67" width="9" height="67"/>
+    <rect id="Rectangle-325" stroke="#222222" stroke-width="3" fill="#FFFBE0" sketch:type="MSShapeGroup" x="135" y="67" width="9" height="67"/>
+    <rect id="Rectangle-327" stroke="#222222" stroke-width="3" fill="#FFFBE0" sketch:type="MSShapeGroup" x="160" y="67" width="9" height="67"/>
+    <rect id="Rectangle-326" stroke="#222222" stroke-width="3" fill="#FFFBE0" sketch:type="MSShapeGroup" x="179" y="67" width="9" height="67"/>
+  </g>
+</svg>
