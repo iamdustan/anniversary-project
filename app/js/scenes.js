@@ -1,13 +1,9 @@
-import { introduction } from './scenes/introduction';
-import { livetsOrd } from './scenes/livets-ord';
-import { uppsala } from './scenes/uppsala';
-import { tiramisu } from './scenes/tiramisu';
-import { interlude } from './scenes/interlude';
+import { Scene } from './scenes/_scene';
 
 export var scenes = [
   {
     name: 'Introduction',
-    scene: introduction,
+    scene: new Scene('Introduction'),
     content: [
       'Five years ago began the most wonderful part of my life.',
       'The woman beyond my dreams had agreed to be my wife.',
@@ -16,7 +12,7 @@ export var scenes = [
   },
   {
     name: 'Livets Ord',
-    scene: livetsOrd,
+    scene: new Scene('Livets Ord', {element: 'livets-ord'}),
     content: [
       'It was the September of 2006 that we met.',
       'I can picture in my mind the moment you walked up to our group.',
@@ -27,7 +23,7 @@ export var scenes = [
   },
   {
     name: 'Tiramisu',
-    scene: tiramisu,
+    scene: new Scene('Livets Ord', {element: 'tiramisu'}),
     content: [
       'The days and weeks passed and our friendship strengthened.',
       'Just beyond Christmas, in February of 2007 that we officially began our relationship.',
@@ -36,7 +32,7 @@ export var scenes = [
   },
   {
     name: 'Uppsala',
-    scene: uppsala,
+    scene: new Scene('Uppsala', {element: 'uppsala'}),
     content: [
       'We enjoyed each others company most everyday for the rest of our time in Uppsala, Sweden.',
       'But all good things must come to an end.',
@@ -45,6 +41,7 @@ export var scenes = [
   },
   {
     name: 'Interlude',
+    scene: new Scene('Interlude'),
     content: [
       'I still remember those months apart as the most lonely and painful of my life.',
       'I had fallen in love with this woman.',
@@ -55,36 +52,42 @@ export var scenes = [
   },
   {
     name: 'Hutchinson',
+    scene: new Scene('First trip to Hutchinson', {element: 'hutchinson'}),
     content: [
       'She came to me in Hutchinson, Minnesota first for a week in the summertime to meet my family.',
     ]
   },
   {
     name: 'Lincolnton',
+    scene: new Scene('First trip to Lincolnton', {element: 'lincolnton'}),
     content: [
       'Then I came to Lincolnton, North Carolina for a week to meet her family.',
     ]
   },
   {
     name: 'Hutchinson',
+    scene: new Scene('Second trip to Hutchinson', {element: 'hutchinson'}),
     content: [
       'Then she came to Hutchinson.',
     ]
   },
   {
     name: 'Lincolnton',
+    scene: new Scene('Second trip to Lincolnton', {element: 'lincolnton'}),
     content: [
       'And I to Lincolnton.',
     ]
   },
   {
     name: 'Hutchinson',
+    scene: new Scene('Third trip to Hutchinson', {element: 'hutchinson'}),
     content: [
       'And she to Hutchinson.',
     ]
   },
   {
     name: 'Lincolnton',
+    scene: new Scene('Third trip to Lincolnton', {element: 'lincolnton'}),
     content: [
       'And I to Lincolnton.',
       'It &ldquo;snowed&rdquo;. School was canceled. Groceries were lacking milk and bread.',
@@ -93,15 +96,17 @@ export var scenes = [
   },
   {
     name: 'Hutchinson',
+    scene: new Scene('Fourth trip to Hutchinson', {element: 'hutchinson'}),
     content: [
       'And she came to Hutchinson.',
       'It snowed. Real, proper snow.',
-      '',
+      '<br />',
       'That day it was decided. I would be moving to North Carolina.',
     ]
   },
   {
     name: 'Lincolnton',
+    scene: new Scene('Move to Lincolnton', {element: 'lincolnton'}),
     content: [
       'I purchased a car in the July of 2008. I packed all of my things in it and drove down in August.',
       'And thus began our stateside life together.',
@@ -110,8 +115,23 @@ export var scenes = [
   },
   {
     name: 'Lincolnton',
+    scene: new Scene('Engaged. I ask', {element: 'lincolnton'}),
     content: [
       'And for Christmas, we got engaged.',
+      'I said, "Kelly. Will you marry me?'
+    ]
+  },
+  {
+    name: 'Lincolnton',
+    scene: new Scene('Engaged. She says yes. ', {element: 'lincolnton'}),
+    content: [
+      'Yes! Of course I will!'
+    ]
+  },
+  {
+    name: 'Lincolnton',
+    scene: new Scene('Married', {element: 'courthouse'}),
+    content: [
       'And on this day, May 16th, 5 years ago',
       'Kelly Renee Richards and Dustan Lee Kasten were wed.',
     ]

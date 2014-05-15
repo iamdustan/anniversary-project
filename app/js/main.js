@@ -29,10 +29,23 @@ loadInto(null, 'cloud').then((el) => {
   });
 });
 
-scenes[0].scene.start(scenes[0])
+var p = scenes[0].scene.start(scenes[0])
   .then(()=>scenes[1].scene.start(scenes[1]))
   .then(()=>scenes[2].scene.start(scenes[2]))
-  .then(()=>{return scenes[3].scene.start(scenes[3])});
+  .then(()=>scenes[3].scene.start(scenes[3]))
+  .then(()=>scenes[4].scene.start(scenes[4]))
+  .then(()=>scenes[5].scene.start(scenes[5]))
+  .then(()=>scenes[6].scene.start(scenes[6]))
+  .then(()=>scenes[7].scene.start(scenes[7]))
+  .then(()=>scenes[8].scene.start(scenes[8]))
+  .then(()=>scenes[9].scene.start(scenes[9]))
+  .then(()=>scenes[10].scene.start(scenes[10]))
+  .then(()=>scenes[11].scene.start(scenes[12]))
+  .then(()=>scenes[11].scene.start(scenes[12]))
+  .then(()=>scenes[13].scene.start(scenes[13]))
+  .then(()=>scenes[14].scene.start(scenes[14]))
+  .then(()=>scenes[15].scene.start(scenes[15]))
+  .then(()=>scenes[16].scene.start(scenes[16]));
 
 [
   'livets-ord',
